@@ -4,6 +4,10 @@
   "main": "index.js",
   "bin": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/al5ina5/tempwatcher.git"
+  },
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
