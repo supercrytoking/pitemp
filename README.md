@@ -48,3 +48,23 @@ pitemp 10
 | Device                   | Operating System | Working |
 | ------------------------ | ---------------- | ------- |
 | Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | ✔️      |
+| MacBook Pro              | MacOS Catalina   | ✔️      |
+
+## Troubleshooting
+
+Try these steps _only after_ you've tried the package and received bad results.
+
+### If you're on a Linux distro...
+
+1. In some cases, you'll need to install the linux sensors package to be able to measure temperature. For example, on DEBIAN based systems, you can install them `sudo apt-get install lm-sensors`.
+
+### If you're on Windows...
+
+1. Ensure you're running `cmd` with administrator privileges.
+
+### If you're on MacOS...
+
+1. Ensure you've installed Xcode CLT, or force a fresh install by:
+    1. Get the path of your current Xcode CLT. `xcode-select --print-path`
+    2. Delete it. `sudo rm -r -f /Library/Developer/CommandLineTools`
+    3. Install Xcode CLT. `xcode-select --install`
