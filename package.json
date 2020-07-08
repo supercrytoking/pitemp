@@ -1,6 +1,6 @@
 {
   "name": "pitemp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": "index.js",
   "license": "MIT",
@@ -11,8 +11,7 @@
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
-    "push": "git add . && git commit -am \"Auto Deploy\" && git push",
-    "publish": "yarn run push"
+    "push": "git add . && git commit -am \"Auto Deploy\" && git push"
   },
   "dependencies": {
     "colors": "^1.4.0",
