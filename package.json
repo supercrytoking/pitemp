@@ -1,6 +1,6 @@
 {
   "name": "tempwatcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": "index.js",
   "license": "MIT",
@@ -9,6 +9,8 @@
     "dev": "nodemon ."
   },
   "dependencies": {
-    "systeminformation": "^4.26.9"
+    "colors": "^1.4.0",
+    "systeminformation": "^4.26.9",
+    "watch-bash": "^1.0.0"
   }
 }
