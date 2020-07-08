@@ -11,7 +11,8 @@
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
-    "publish": "git add . && git commit -am \"Auto Deploy\" && git push && yarn publish"
+    "push": "git add . && git commit -am \"Auto Deploy\" && git push",
+    "publish": "yarn run push && yarn publish"
   },
   "dependencies": {
     "colors": "^1.4.0",

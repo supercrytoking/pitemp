@@ -9,3 +9,9 @@ The suggested usage is `npx`. It is installed by default with `npm`. You can get
 ```
 npx tempwatcher
 ```
+
+## Compatibility
+
+| Device                   | Operating System | Working |
+| ------------------------ | ---------------- | ------- |
+| Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | ✔️      |
