@@ -52,7 +52,7 @@ Reports a more verbose log of your temperature.
 #### Example using every flag:
 
 ```
-npm pitemp -v -t 3
+npx pitemp -v -t 3
 ```
 
 ## Compatibility
