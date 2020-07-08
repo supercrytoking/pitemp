@@ -6,6 +6,7 @@ const watch = require('watch-bash')
 
 const interval = parseInt(process.argv.slice(2)[0] || 1) // time
 
+console.log('')
 console.log((`pitemp`.brightRed + ` is reporting every ${interval} seconds.`).bold)
 
 setInterval(() => {
