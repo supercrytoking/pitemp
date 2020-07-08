@@ -11,11 +11,9 @@ npx pitemp
 npx pitemp [interval in seconds]
 npx pitemp 3
 npx pitemp 10
-```
 
-```
-pitemp is reporting every 2 seconds.
-Main: 62.322° C - Max: 62.322° C
+// pitemp is reporting every 2 seconds.
+// Main: 62.322° C - Max: 62.322° C
 ```
 
 ![pitemp screenshot](/screenshot.png)
