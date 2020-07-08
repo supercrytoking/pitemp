@@ -11,4 +11,4 @@ setInterval(() => {
         var string = `Main`.blue + `: ${data.main}° C - ` + `Max`.yellow + `: ${data.max}° C`
         watch(string)
     })
-}, 1000)
+}, (args[0] || 1) * 1000)
