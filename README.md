@@ -1,8 +1,8 @@
 # `pitemp`
 
-Finally, an easy way to get the temperature of your machine (even your Raspberry Pi!) via the command line. Powered by NodeJS.
+A quick and easy way to get the temperature of your Raspberry Pi.
 
-## How to Use
+## Usage
 
 The suggested usage is `npx`. It is installed by default with `npm`. You can get `npm` by installing [NodeJS](https://nodejs.org/en/).
 
