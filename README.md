@@ -10,7 +10,7 @@ Requires [NodeJS](https://nodejs.org/en/).
 
 ### Using `pitemp` with `npx`
 
-The suggested usage is `npx`. It is installed by default with `npm`. You can get `npm` by installing [NodeJS](https://nodejs.org/en/).
+The suggested usage is `npx`, because you'll always be running the latest version of `pitemp`. It is installed by default with `npm`. You can get `npm` by installing [NodeJS](https://nodejs.org/en/).
 
 ```
 npx pitemp
