@@ -2,7 +2,11 @@
 
 A quick and easy way to get the temperature of your Raspberry Pi.
 
+![pitemp screenshot](/screenshot.png)
+
 ## Usage
+
+### Using `pitemp` with `npx`
 
 The suggested usage is `npx`. It is installed by default with `npm`. You can get `npm` by installing [NodeJS](https://nodejs.org/en/).
 
@@ -15,8 +19,6 @@ npx pitemp 10
 // pitemp is reporting every 2 seconds.
 // Main: 62.322° C - Max: 62.322° C
 ```
-
-![pitemp screenshot](/screenshot.png)
 
 ## Compatibility
 
