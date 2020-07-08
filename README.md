@@ -8,7 +8,7 @@ A quick and easy way to get the temperature of your Raspberry Pi with a single c
 
 Requires [NodeJS](https://nodejs.org/en/).
 
-### Using `pitemp` with `npx`
+### 1. Using `pitemp` with `npx`
 
 The suggested usage is `npx`, because you'll always be running the latest version of `pitemp`. It is installed by default with `npm`. You can get `npm` by installing [NodeJS](https://nodejs.org/en/).
 
@@ -22,7 +22,7 @@ npx pitemp 10
 // Main: 62.322° C - Max: 62.322° C
 ```
 
-### Installing globally and running
+### 2. Installing globally and running
 
 You can install `pitemp` globally with your favorite package manager.
 
