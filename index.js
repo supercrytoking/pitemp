@@ -4,7 +4,7 @@ const si = require('systeminformation')
 const colors = require('colors')
 const watch = require('watch-bash')
 
-const args = process.argv.slice(2)
+const args = process.argv.slice(2) // time
 
 setInterval(() => {
     si.cpuTemperature((data) => {
