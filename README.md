@@ -45,10 +45,12 @@ pitemp 10
 
 ## Compatibility
 
-| Device                   | Operating System | Working |
+| Machine                  | Operating System | Working |
 | ------------------------ | ---------------- | ------- |
 | Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | ✔️      |
 | MacBook Pro              | MacOS Catalina   | ✔️      |
+
+If you test this somewhere, please [create an issue](https://github.com/al5ina5/pitemp/issues/new) with your information on your machine and operating system.
 
 ## Troubleshooting
 
@@ -68,3 +70,5 @@ Try these steps _only after_ you've tried the package and received bad results.
     1. Get the path of your current Xcode CLT. `xcode-select --print-path`
     2. Delete it. `sudo rm -r -f /Library/Developer/CommandLineTools`
     3. Install Xcode CLT. `xcode-select --install`
+
+If you're still facing issues, [create an issue](https://github.com/al5ina5/pitemp/issues/new) and I'll try my best to help you out.
