@@ -6,13 +6,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/al5ina5/tempwatcher.git"
+    "url": "https://github.com/al5ina5/pitemp.git"
   },
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
     "push": "git add . && git commit -am \"Auto Deploy\" && git push",
-    "publish": "yarn run push && yarn publish"
+    "publish": "yarn run push"
   },
   "dependencies": {
     "colors": "^1.4.0",
