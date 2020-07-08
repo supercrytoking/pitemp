@@ -15,3 +15,5 @@ npx tempwatcher
 | Device                   | Operating System | Working |
 | ------------------------ | ---------------- | ------- |
 | Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | ✔️      |
+
+## More coming soon...
