@@ -14,9 +14,6 @@ The suggested usage is `npx`, because that way you'll always be running the late
 
 ```
 npx pitemp
-npx pitemp [interval in seconds]
-npx pitemp 3
-npx pitemp 10
 
 // pitemp is reporting every X seconds.
 // Main: 62.322° C - Max: 62.322° C
@@ -35,12 +32,27 @@ Then simply run `pitemp` with the command.
 
 ```
 pitemp
-pitemp [interval in seconds]
-pitemp 3
-pitemp 10
 
 // pitemp is reporting every X seconds.
 // Main: 61.323° C - Max: 62.826° C
+```
+
+## Flags
+
+### Time `-t <seconds>`
+
+-   Default: `1`
+
+Change the interval (in seconds) at which the temperature is reported.
+
+### Verbose `-v`
+
+Reports a more verbose log of your temperature.
+
+#### Example using every flag:
+
+```
+npm pitemp -v -t 3
 ```
 
 ## Compatibility
