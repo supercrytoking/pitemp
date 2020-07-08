@@ -18,5 +18,8 @@
     "colors": "^1.4.0",
     "systeminformation": "^4.26.9",
     "watch-bash": "^1.0.0"
+  },
+  "optionalDependencies": {
+    "osx-temperature-sensor": "^1.0.7"
   }
 }

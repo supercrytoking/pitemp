@@ -7,6 +7,11 @@ colors@^1.4.0:
   resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
   integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
 
+osx-temperature-sensor@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/osx-temperature-sensor/-/osx-temperature-sensor-1.0.7.tgz#5bbbd28bf86dc1d5391cfa7f067f0308807ddae9"
+  integrity sha512-5hijMYtDVmcrR/LTZ8702SZOO2TVt5868KeraD02WyEI+3/YZJI4Cl9fvzCOc5vzizGGjvsfaCKZOKHF+RJ0wA==
+
 systeminformation@^4.26.9:
   version "4.26.9"
   resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.26.9.tgz#ecc725a162c0c7d8d48226f97637a5f590042ffd"
