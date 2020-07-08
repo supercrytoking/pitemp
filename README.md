@@ -2,7 +2,7 @@
 
 A quick and easy way to get the temperature of your Raspberry Pi with a single command. Built in [NodeJS](https://nodejs.org/en/).
 
-![pitemp screenshot](/screenshot.png)
+![pitemp screenshot](https://i.imgur.com/gqvKva0.png)
 
 ## Usage
 
