@@ -47,8 +47,9 @@ pitemp 10
 
 | Machine                  | Operating System | Working |
 | ------------------------ | ---------------- | ------- |
-| Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | ✔️      |
-| MacBook Pro              | MacOS Catalina   | ✔️      |
+| Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | Yes!    |
+| MacBook Pro              | MacOS Catalina   | Yes!    |
+|                          |                  |         |
 
 If you test this somewhere, please [create an issue](https://github.com/al5ina5/pitemp/issues/new) with your information on your machine and operating system.
 
