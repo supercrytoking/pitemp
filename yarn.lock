@@ -2,7 +2,17 @@
 # yarn lockfile v1
 
 
+colors@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
+  integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
+
 systeminformation@^4.26.9:
   version "4.26.9"
   resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-4.26.9.tgz#ecc725a162c0c7d8d48226f97637a5f590042ffd"
   integrity sha512-69MTIX9j//wnteJzQWuGL6FiMxlfS3wTWyhROI6pNUaQALYqJb3W9VtLVcEcKFOjO1vrGRgilJVFzJeRRi//Pg==
+
+watch-bash@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/watch-bash/-/watch-bash-1.0.0.tgz#47882736b0f73173f3ea74aeb5e2d4c75fa30a8a"
+  integrity sha512-1qH/C9VSYVl647UfwbdjGCt66FBpsKCicpah/XRTGQiVBv1l5GfJMVB8ZWxKE/5kYvoEZ5zk3x7lCUvICq7nMA==

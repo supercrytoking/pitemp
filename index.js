@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 
 const si = require('systeminformation')
+const colors = require('colors')
+const watch = require('watch-bash')
 
 setInterval(() => {
     si.cpuTemperature((data) => {
-        var string = `Main: ${data.main} C° - Max: ${data.max}`
-        console.log(string)
+        var string = `Main`.blue + `: ${data.main}° C - ` + `Max`.yellow + `: ${data.max}° C`
+        watch(string)
     })
 }, 1000)

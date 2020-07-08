@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "publish": "git add . && git commit -am \"Auto Deploy\" && git push && yarn publish"
   },
   "dependencies": {
     "colors": "^1.4.0",
