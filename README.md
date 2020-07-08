@@ -8,6 +8,9 @@ The suggested usage is `npx`. It is installed by default with `npm`. You can get
 
 ```
 npx pitemp
+npx pitemp [interval in seconds]
+npx pitemp 3
+npx pitemp 10
 ```
 
 ## Compatibility
