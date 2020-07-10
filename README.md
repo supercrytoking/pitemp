@@ -61,9 +61,9 @@ npx pitemp -v -t 3
 | ------------------------ | ---------------- | ------- |
 | Raspberry Pi 4 (4GB RAM) | Ubuntu 20.04     | Yes!    |
 | MacBook Pro              | MacOS Catalina   | Yes!    |
-|                          |                  |         |
+| Windows (Intel)          | Windows 10       | Yes!    |
 
-If you test this somewhere, please [create an issue](https://github.com/al5ina5/pitemp/issues/new) with your information on your machine and operating system.
+If you test this somewhere, please [create an issue](https://github.com/al5ina5/pitemp/issues/new) with your information on your machine and operating system so we can add it to this compatibility table.
 
 ## Troubleshooting
 

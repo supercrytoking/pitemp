@@ -4,6 +4,7 @@
   "main": "index.js",
   "bin": "index.js",
   "license": "MIT",
+  "homepage": "https://pitemp.vercel.app/",
   "repository": {
     "type": "git",
     "url": "https://github.com/al5ina5/pitemp.git"
